@@ -1,0 +1,22 @@
+.DS_Store
+# Compiled class files
+*.class
+
+# Build output
+out/
+bin/
+
+# Eclipse/IDE files
+.classpath
+.project
+.settings/
+
+# VS Code
+.vscode/
+
+# Maven / Gradle
+/target/
+/build/
+
+# macOS
+.DS_Store
