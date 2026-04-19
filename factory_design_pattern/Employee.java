@@ -1,4 +1,4 @@
-package factory_desing_pattern;
+package factory_design_pattern;
 
 public interface Employee {
     int getSalary();

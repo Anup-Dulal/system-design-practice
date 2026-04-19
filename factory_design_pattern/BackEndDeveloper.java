@@ -1,4 +1,4 @@
-package factory_desing_pattern;
+package factory_design_pattern;
 
 public class BackEndDeveloper implements Employee {
 
